@@ -1,6 +1,6 @@
 # Python Experiments
 
-*This repository contains the initial code I created when learning to use GitHub as part of _DSCI 8133, Foundations of Data Science at Mississippi State University_.
+This repository contains the initial code I created when learning to use GitHub as part of _DSCI 8133, Foundations of Data Science at Mississippi State University_.
 
 ---
 
