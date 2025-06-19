@@ -19,4 +19,4 @@ My data science competencies include:
 - Data visualization
 
 In order to test the inclusion of a photograph, I've included a photo of a funny hedgehog that looks like me when I find a great dataset!
-![Smiling Hedgehog]()
+![Smiling Hedgehog](IMG_4114.png)
