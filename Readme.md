@@ -1,2 +1,20 @@
-# Test-Project
-To-do: Put Description Here
+# Python Experiments
+
+*This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, Foundations of Data Science at Mississippi State University.
+
+---
+
+## Plan
+
+Future plans for this repository include adding data regarding workplace injuries and incidents to create meaningful changes and prevent incidents!
+
+## About Me
+
+I am Joshua Freeman, and I work in the Occupational Health and Safety and Engineering industries. Data Science is is a large part of my career and I use it everyday.
+
+My data science competencies include:
+- Statistical analysis
+- Data management
+- Data visualization
+
+In order to test the inclusion of a photograph, I've included a photo of 
